@@ -12,6 +12,9 @@ Example 2 of Islam and Hossain (2009) can run in a terminal with the following i
 $ g++ composite.cpp<br>
 $ ./a.out
 
+<details>
+<summary>Details output</summary>
+
 Enter the order of Gauss Legendre Quadrature rule: 3
 
 |	$C_k$            |	$X_k$              | $Y_k$              |
@@ -41,3 +44,4 @@ Enter the value of n (between 1 and 50) then discretise T into $4\times n^2$ tri
 |4 x 9^2 |  20.812134862867111 |
 |4 x 10^2|	20.817848407116379 |
 
+</details>
