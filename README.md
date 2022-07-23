@@ -26,7 +26,7 @@ Enter the order of Gauss Legendre Quadrature rule: 3
 |0.342542798671788 |	-0.056350832689629 |	-0.830947501931112|
 |0.154320987654321 |	0.674596669241483  |	-0.874596669241483|
 
-Enter the value of n (between 1 and 50) then discretise T into 4xn^2 triangle:10
+Enter the value of n (between 1 and 50) then discretise T into $4\times n^2$ triangle:10
 
 |$4\times n^2$|		Result           |
 |:-------|:--------------------|
