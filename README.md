@@ -14,7 +14,7 @@ $ ./a.out
 
 Enter the order of Gauss Legendre Quadrature rule: 3
 
-|	C_k              |	X_k                | Y_k                |
+|	$C_k$            |	$X_k$              | $Y_k$              |
 |:-----------------|:--------------------|:-------------------|	
 |0.154320987654321 |	-0.874596669241483 |  0.674596669241483 |
 |0.151284361822039 |	-0.443649167310371 |	0.330947501931112 |
@@ -28,7 +28,7 @@ Enter the order of Gauss Legendre Quadrature rule: 3
 
 Enter the value of n (between 1 and 50) then discretise T into 4xn^2 triangle:10
 
-|4 x n^2 |		Result           |
+|$4\times n^2$|		Result           |
 |:-------|:--------------------|
 |4 x 1^2 |  14.991195582852475 |
 |4 x 2^2 |  19.267674833364271 |
