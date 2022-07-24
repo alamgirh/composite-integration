@@ -13,7 +13,7 @@ $ g++ composite.cpp<br>
 $ ./a.out
 
 <details>
-<summary>Details output</summary>
+<summary><span style="color: blue">Output Details</span> </summary>
 
 Enter the order of Gauss Legendre Quadrature rule: 3
 
