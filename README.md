@@ -12,8 +12,9 @@ Example 2 of Islam and Hossain (2009) can run in a terminal with the following i
 $ g++ composite.cpp<br>
 $ ./a.out
 
+<span style="color: blue">Output Details</span>
 <details>
-<summary><span style="color: blue">Output Details</span> </summary>
+<summary> <span style="color: blue">Output Details</span> </summary>
 
 Enter the order of Gauss Legendre Quadrature rule: 3
 
