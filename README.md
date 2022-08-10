@@ -5,7 +5,7 @@ Newton-Cotes formulas are not accurate for a large integral domain. The main ide
 
 Using the C++ code (composite.cpp), I computed composite numerical integration over a quadrilateral region. We described the composite numerical integration over an arbitrary quadrilateral region in our following paper: 
 
-Md. Shafiqul Islam and M. Alamgir Hossain (2009)- Numerical Integrations over an Arbitrary Quadrilateral Region, Applied Mathematics and Computations Volume 210, Issue 2, 15 April 2009, Pages 515-524. [![DOI]](https://doi.org/10.1016/j.amc.2009.01.030)
+Md. Shafiqul Islam and M. Alamgir Hossain (2009)- Numerical Integrations over an Arbitrary Quadrilateral Region, Applied Mathematics and Computations Volume 210, Issue 2, 15 April 2009, Pages 515-524. [[DOI]](https://doi.org/10.1016/j.amc.2009.01.030)
 
 
 ## Run
