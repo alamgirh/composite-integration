@@ -1,3 +1,5 @@
+[![DOI](https://doi.org/10.1016/j.amc.2009.01.030)](https://doi.org/10.1016/j.amc.2009.01.030)
+
 # Composite Numerical Integration (CNI)
 
 Newton-Cotes formulas are not accurate for a large integral domain. The main idea of the CNI is to divide integral domain into subdomains and use simple integration rule for each subdomain. 
